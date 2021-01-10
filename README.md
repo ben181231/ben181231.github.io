@@ -1,4 +1,3 @@
-ben181231.github.io
-===================
-__Ben's Dev Home__
+# ben181231.github.io
+
 This is a Ben's Github Homepage.
